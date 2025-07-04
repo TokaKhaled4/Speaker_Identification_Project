@@ -1,0 +1,85 @@
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe.config
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\MWArray.dll
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\MWArray.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\NAudio.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.AssemblyReference.cache
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.SuggestedBindingRedirects.cache
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.MainForm.resources
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.Properties.Resources.resources
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.GenerateResource.cache
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CopyComplete
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.exe
+D:\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.pdb
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe.config
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\NAudio.xml
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.AssemblyReference.cache
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.MainForm.resources
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.Properties.Resources.resources
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.GenerateResource.cache
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CopyComplete
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.exe
+C:\Users\Toka\Downloads\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.pdb
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe.config
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\NAudio.xml
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.AssemblyReference.cache
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.MainForm.resources
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.Properties.Resources.resources
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.GenerateResource.cache
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CopyComplete
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.exe
+C:\Users\Toka Khaled\Downloads\code\STARTUP CODE\Speaker Identification Startup Code\Speaker Identification Startup Code\[TEMPLATE] SpeakerID\obj\Debug\Recorder.pdb
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe.config
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\Recorder.exe
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\Recorder.pdb
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.dll
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.dll
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\MWArray.dll
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.dll
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.dll
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\AForge.Math.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\MWArray.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\NAudio.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\bin\Debug\SharpDX.DirectSound.xml
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.AssemblyReference.cache
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.MainForm.resources
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.Properties.Resources.resources
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.GenerateResource.cache
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.csproj.Up2Date
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.exe
+C:\Users\janae\OneDrive\Desktop\[TEMPLATE] SpeakerID\obj\Debug\Recorder.pdb

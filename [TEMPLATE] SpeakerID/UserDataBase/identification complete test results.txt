@@ -1,0 +1,10 @@
+Expected: 001, Identified: 001, Distance: 659774.75287409
+Expected: 002, Identified: 002, Distance: 477352.766169724
+Expected: 003, Identified: 004, Distance: 410395.455423682
+Expected: 004, Identified: 004, Distance: 373030.255376211
+Expected: 005, Identified:  , Distance: ∞
+Expected: 006, Identified: 006, Distance: 637203.32111716
+Expected: 007, Identified: 007, Distance: 5.81068095363952
+Expected: 008, Identified: 004, Distance: 309629.358481268
+Expected: 009, Identified: 010, Distance: 645256.073040931
+Expected: 010, Identified: 004, Distance: 475275.153040484
